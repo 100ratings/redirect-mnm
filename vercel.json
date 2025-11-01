@@ -142,6 +142,17 @@
       ],
       "destination": "https://googleimagem.com",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "n.mnm.lol"
+        }
+      ],
+      "destination": "https://503service.pw",
+      "permanent": true
     }
   ]
 }
