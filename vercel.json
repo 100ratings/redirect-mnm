@@ -1,0 +1,158 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "mnm.lol"
+        }
+      ],
+      "destination": "https://gooqlc.com/3886",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.mnm.lol"
+        }
+      ],
+      "destination": "https://mnm.lol",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "m.mnm.lol"
+        }
+      ],
+      "destination": "https://tinyhost.pw/list/s32vz5JVg/CM6U6Lx9eDQ1",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "f.mnm.lol"
+        }
+      ],
+      "destination": "https://tinyhost.pw/list/JbEOC9haJ/CM6U6Lx9eDQ1",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "x.mnm.lol"
+        }
+      ],
+      "destination": "https://googleimagem.com",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "d.mnm.lol"
+        }
+      ],
+      "destination": "http://quicksketch.co/481516",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "g.mnm.lol"
+        }
+      ],
+      "destination": "https://pag.gg/358",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "e.mnm.lol"
+        }
+      ],
+      "destination": "https://iyt.pw/3886",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "p.mnm.lol"
+        }
+      ],
+      "destination": "https://paint.land/Draw/481516",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "w.mnm.lol"
+        }
+      ],
+      "destination": "https://wikiepiedia.org/pta",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "t.mnm.lol"
+        }
+      ],
+      "destination": "https://gooqlc.com/12773",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "b.mnm.lol"
+        }
+      ],
+      "destination": "https://gooqlc.com/186",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "j.mnm.lol"
+        }
+      ],
+      "destination": "https://11z.co/a/jfk123.webp",
+      "permanent": true
+    },
+		{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "n.mnm.lol"
+        }
+      ],
+      "destination": "https://ġoogle.com/3886",
+      "permanent": true
+    }
+  ]
+}
