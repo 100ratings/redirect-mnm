@@ -142,8 +142,7 @@
       ],
       "destination": "https://11z.co/a/jfk123.webp",
       "permanent": true
-    },
-		{
+  	{
       "source": "/",
       "has": [
         {
@@ -156,3 +155,4 @@
     }
   ]
 }
+
