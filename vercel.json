@@ -153,6 +153,17 @@
       ],
       "destination": "https://503service.pw",
       "permanent": true
+    },
+        {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "y.mnm.lol"
+        }
+      ],
+      "destination": "https://youtu.be/VFbYadm_mrw?t=64",
+      "permanent": true
     }
   ]
 }
