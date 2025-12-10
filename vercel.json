@@ -175,6 +175,17 @@
       ],
       "destination": "https://dvxms.de/api/inputrrr/user/inputrrr.php?user_id=59431&skin=1",
       "permanent": true
+    },
+	    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "r.mnm.lol"
+        }
+      ],
+      "destination": "https://remind.show/70",
+      "permanent": true
     }
   ]
 }
