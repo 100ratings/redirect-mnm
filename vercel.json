@@ -154,7 +154,7 @@
       "destination": "https://503service.pw",
       "permanent": true
     },
-        {
+    {
       "source": "/",
       "has": [
         {
@@ -176,7 +176,7 @@
       "destination": "https://dvxms.de/api/inputrrr/user/inputrrr.php?user_id=59431&skin=1",
       "permanent": true
     },
-	    {
+	{
       "source": "/",
       "has": [
         {
@@ -184,7 +184,18 @@
           "value": "r.mnm.lol"
         }
       ],
-      "destination": "https://remind.show/70",
+      "destination": "https://remind.show/82",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "s.mnm.lol"
+        }
+      ],
+      "destination": "https://mlkn.cc",
       "permanent": true
     }
   ]
